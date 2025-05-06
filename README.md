@@ -12,7 +12,7 @@ This is a beginner HTML project that simulates a travel agency landing page. It 
 
 ## 🔗 Live Preview
 
-You can view the project by opening the `index.html` file in your browser or by visiting the GitHub Pages link if hosted.
+You can view the project by visiting the GitHub Pages link [if hosted.](https://github.com/SolSanders-0/Travel-Agency-Page/blob/main/TravelAgency.html)
 
 ## 🛠️ Built With
 
